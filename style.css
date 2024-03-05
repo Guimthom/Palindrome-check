@@ -43,6 +43,13 @@ font-family: "Lato", sans-serif;
     box-shadow: 0px 8px 0px 0px var(--shdw-color);
 }
 
+#check-result{
+    color: var(--text-color);
+    font-family: "Lato", sans-serif;
+    margin : 10px 0px;
+}
+
+
 label{
     margin: 10px 0px;
     color: var(--text-color);
